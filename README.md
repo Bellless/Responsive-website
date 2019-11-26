@@ -11,4 +11,4 @@
 <br>
 4.flex布局请参照:https://blog.csdn.net/lm9948/article/details/80732702
 <br>
-5.页面元素单位除了字体单位采用px像素外，其余所有的元素单位采用rem  具体1rem=？rem 请根据实际的设计稿和需求进行设置（详情请看responsive.js注释）
+5.页面元素单位除了字体单位采用px像素外，其余所有的元素单位采用 rem单位  具体1rem=？px 请根据实际的设计稿和需求进行设置（详情请看responsive.js注释）
